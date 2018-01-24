@@ -1,4 +1,4 @@
-#Getting Started with Linux
+# Getting Started with Linux
 
 Linux is an Open Source Operating System widely used for various purposes including scientific computing. To jump start the learning we will use the following commands and then understand its purpose.
 
@@ -14,11 +14,11 @@ ls - **l**i**s**t the contents
 pwd - **p**resent **w**orking **d**irectory  
 cd - **c**hange **d**irectory  
 
-#Getting Started with Python
+# Getting Started with Python
 
 Any program that we run, ultimately gives some information back. This is made visible with the help of _print()_ function in python3.
 
-##Displaying output
+## Displaying output
 
 ```{python eval = TRUE}
 print("Hello World")
@@ -29,7 +29,7 @@ In the above _print("Hello World")_ function
 + print is called the **name** of the function  
 + "Hello World" is called the **value** given to the function.  
 
-##Getting Input from the user
+## Getting Input from the user
 
 The next function that we will learn about is called *input()*. Getting input from the user makes the program interactive and is often useful and/or fun. 
 
@@ -51,7 +51,7 @@ Notice the difference in the above example.
 
 To exit from python, use the function *exit()*.
 
-##Data Types
+## Data Types
 
 The three basic data types that we will frequently use are 
 
@@ -59,7 +59,7 @@ The three basic data types that we will frequently use are
 * Integer used as **int()** - Integers only.
 * Float used as **float()** - Numbers with decimal points.
 
-##Challenge 1.
+## Challenge 1.
 
 Get two numbers from the user. If these two numbers are two sides of a right angle triangle. Calculate the hypotenuse.
 
