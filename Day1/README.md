@@ -61,7 +61,7 @@ The three basic data types that we will frequently use are
 
 ## Challenge 1.
 
-Get two numbers from the user. If these two numbers are two sides of a right angle triangle. Calculate the hypotenuse.
+Get two numbers from the user. Given these two numbers are two sides of a right angle triangle. Calculate the hypotenuse.
 
 *Hint: Use math module as import math and sqrt() function*
 
