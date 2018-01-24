@@ -1,0 +1,94 @@
+---
+title: "Python Day 1"
+author: "Balan Ramesh"
+date: "1/19/2018"
+output: html_document
+---
+
+<style="font-family:Helvetica;">
+
+#Getting Started with Linux
+
+Linux is an Open Source Operating System widely used for various purposes including scientific computing. To jump start the learning we will use the following commands and then understand its purpose.
+
+```{shell eval=TRUE}
+$ls
+$pwd
+$cd
+```
+
+A folder is called directory in linux.
+
+ls - **l**i**s**t the contents  
+pwd - **p**resent **w**orking **d**irectory  
+cd - **c**hange **d**irectory  
+
+#Getting Started with Python
+
+Any program that we run, ultimately gives some information back. This is made visible with the help of _print()_ function in python3.
+
+##Displaying output
+
+```{python eval = TRUE}
+print("Hello World")
+```
+
+In the above _print("Hello World")_ function  
+
++ print is called the **name** of the function  
++ "Hello World" is called the **value** given to the function.  
+
+##Getting Input from the user
+
+The next function that we will learn about is called *input()*. Getting input from the user makes the program interactive and is often useful and/or fun. 
+
+```{python eval = FALSE}
+name = input("Whats you name?\n")
+```
+
+Here the "variable" name stores the value from the user.
+
+```{python eval = TRUE}
+#Whats your name?
+#Dinosaur
+name = "Dinosaur"
+print("Hello" + name)
+print("Hello" + " " + name)
+```
+
+Notice the difference in the above example.
+
+To exit from python, use the function *exit()*.
+
+##Data Types
+
+The three basic data types that we will frequently use are 
+
+* String used as **str()** - Any character or sentence.
+* Integer used as **int()** - Integers only.
+* Float used as **float()** - Numbers with decimal points.
+
+##Challenge 1.
+
+Get two numbers from the user. If these two numbers are two sides of a right angle triangle. Calculate the hypotenuse.
+
+*Hint: Use math module as import math and sqrt() function*
+
+## Summary of Day 1:
+
+### Linux Commands
+
+1. cd  
+2. pwd  
+3. ls  
+
+### Python Commands
+
+1. print()  
+2. input()  
+3. str()  
+4. int()  
+5. float() 
+6. import 
+7. sqrt()  
+8. exit()  
