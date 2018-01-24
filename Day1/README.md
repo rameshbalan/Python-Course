@@ -2,7 +2,7 @@
 
 Linux is an Open Source Operating System widely used for various purposes including scientific computing. To jump start the learning we will use the following commands and then understand its purpose.
 
-```{shell eval=TRUE}
+```
 $ls
 $pwd
 $cd
@@ -20,7 +20,7 @@ Any program that we run, ultimately gives some information back. This is made vi
 
 ## Displaying output
 
-```{python eval = TRUE}
+```
 print("Hello World")
 ```
 
@@ -33,13 +33,13 @@ In the above _print("Hello World")_ function
 
 The next function that we will learn about is called *input()*. Getting input from the user makes the program interactive and is often useful and/or fun. 
 
-```{python eval = FALSE}
+```
 name = input("Whats you name?\n")
 ```
 
 Here the "variable" name stores the value from the user.
 
-```{python eval = TRUE}
+```
 #Whats your name?
 #Dinosaur
 name = "Dinosaur"
