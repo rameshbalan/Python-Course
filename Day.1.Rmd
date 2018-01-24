@@ -1,12 +1,3 @@
----
-title: "Python Day 1"
-author: "Balan Ramesh"
-date: "1/19/2018"
-output: html_document
----
-
-<style="font-family:Helvetica;">
-
 #Getting Started with Linux
 
 Linux is an Open Source Operating System widely used for various purposes including scientific computing. To jump start the learning we will use the following commands and then understand its purpose.
