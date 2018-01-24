@@ -47,6 +47,11 @@ print("Hello" + name)
 print("Hello" + " " + name)
 ```
 
+```
+HelloDinosaur
+Hello Dinosaur
+```
+
 Notice the difference in the above example.
 
 To exit from python, use the function *exit()*.
