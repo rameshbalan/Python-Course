@@ -47,15 +47,13 @@ $pwd
 
 Comes in handy with cd and cp commands.
 
---------------------------------------------------------
-1.| .      | This directory/ Present directory (Period)
---------------------------------------------------------
-2.| ..     | One directory up the hierarchy (Double Dot)
---------------------------------------------------------
-3.| -      | Previous location (Hyphen)
---------------------------------------------------------
-4.| ~      | Home (Tilde)
---------------------------------------------------------
+|S.No.| Symbol | Description
+|:----|:-------|:-------------------------------------------
+|1.   | .      | This directory/ Present directory (Period)
+|2.   | ..     | One directory up the hierarchy (Double Dot)
+|3.   | -      | Previous location (Hyphen)
+|4.   | ~      | Home (Tilde)
+
 For example:  
 
 ```shell
