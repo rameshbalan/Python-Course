@@ -45,13 +45,17 @@ $pwd
 
 ## Shortcuts to remember:
 
-Comes in handy with cd and cp commands.(No quotation marks)
+Comes in handy with cd and cp commands.
 
-1. "."      : This directory/ Present directory (Period)
-2. ".."    : One directory up the hierarchy (Double Dot)
-3. "-"    : Previous location (Hyphen)
-4. "~"      : Home (Tilde)
-
+--------------------------------------------------------
+1.| .      | This directory/ Present directory (Period)
+--------------------------------------------------------
+2.| ..     | One directory up the hierarchy (Double Dot)
+--------------------------------------------------------
+3.| -      | Previous location (Hyphen)
+--------------------------------------------------------
+4.| ~      | Home (Tilde)
+--------------------------------------------------------
 For example:  
 
 ```shell
