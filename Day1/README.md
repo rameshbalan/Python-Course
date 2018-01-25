@@ -2,8 +2,7 @@
 
 Linux is an Open Source Operating System widely used for various purposes including scientific computing. To jump start the learning we will use the following commands and then understand its purpose.
 
-```
-# Shell Code for syntax highlighting
+```bash
 $ls
 $pwd
 $cd
@@ -21,7 +20,7 @@ Any program that we run, ultimately gives some information back. This is made vi
 
 ## Displaying output
 
-```
+```python
 print("Hello World")
 ```
 
@@ -34,22 +33,19 @@ In the above _print("Hello World")_ function
 
 The next function that we will learn about is called *input()*. Getting input from the user makes the program interactive and is often useful and/or fun. 
 
-```
+```python
 name = input("Whats you name?\n")
 ```
 
 Here the "variable" name stores the value from the user.
 
-```
-// Python Code for syntax highlighting
-Whats your name?
-Dinosaur
+```python
 name = "Dinosaur"
 print("Hello" + name)
 print("Hello" + " " + name)
 ```
 
-```
+```python
 HelloDinosaur
 Hello Dinosaur
 ```
