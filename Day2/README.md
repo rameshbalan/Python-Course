@@ -112,7 +112,7 @@ list[3]
 
 ### Dictionary
 
-Dictionary is a useful datatype where the values are stored as key:value pairs. An example will help in understanding this data type better.
+Dictionary is a useful datatype where the values are stored as `key:value` pairs. An example will help in understanding this data type better.
 
 A dictionary is declared as follows:
 
@@ -130,7 +130,7 @@ print(GC_content[45])
 
 What's the difference between lists and dictionaries? 
 
-A list is an ordered sequence of objects, whereas dictionaries are unordered sets. But the main difference is that items in dictionaries are accessed via keys and not via their position/index.
+A list is an ordered sequence of objects, whereas dictionaries are unordered sets. But the main difference is that items in `dictionaries are accessed via keys and not via their position/index`.
 
 #### Challenge:
 
