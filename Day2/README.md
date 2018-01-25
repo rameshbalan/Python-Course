@@ -70,7 +70,7 @@ They are differrent data types in python.Last week we discussed three data types
 
 ### List
 
-The list is a datatype available in Python which can be written as a list of comma-separated values between square brackets. A major feature of a list is that items in a list need not be of the same datatype.
+List is a datatype available in Python which can be written as a list of comma-separated values between square brackets. A major feature of a list is that items in a list need not be of the same datatype.
 
 A list is declared as follows:
 
