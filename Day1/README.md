@@ -3,6 +3,7 @@
 Linux is an Open Source Operating System widely used for various purposes including scientific computing. To jump start the learning we will use the following commands and then understand its purpose.
 
 ```
+#Shell Code for syntax highlighting
 $ls
 $pwd
 $cd
@@ -40,8 +41,9 @@ name = input("Whats you name?\n")
 Here the "variable" name stores the value from the user.
 
 ```
-#Whats your name?
-#Dinosaur
+#Python Code for syntax highlighting
+Whats your name?
+Dinosaur
 name = "Dinosaur"
 print("Hello" + name)
 print("Hello" + " " + name)
