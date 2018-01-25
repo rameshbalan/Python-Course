@@ -64,6 +64,8 @@ $pwd
 
 # Python 
 
+Online python [http://www.compileonline.com/execute_python3_online.php](interpreter)
+
 ## Data types
 
 They are differrent data types in python.Last week we discussed three data types which are str(), int() and float(). This week we will learn about lists and dictionary which are frequently used.
