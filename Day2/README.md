@@ -3,7 +3,7 @@
 
 Last week we learnt **ls, pwd** and **cd**. Lets learn few more commands which will help in understanding more about linux.
 
-```
+```shell
 $mkdir
 $rmdir
 $touch
@@ -28,14 +28,14 @@ A path is a unique location to a file or a folder in a file system of an OS. A p
 **What is an absolute path?**  
 An absolute path is defined as the specifying the location of a file or directory from the root directory(/). In other words we can say absolute path is a complete path from start of actual filesystem from / directory. For example
 
-```
+```shell
 $cd /home/dinosaur/Desktop/my_file.txt
 ```
 
 **What is the relative path?**  
 Relative path is defined as path related to the present working directory(pwd). Suppose I am located in /home/dinosaur and I want to change directory to /home/dinosaur/Downloads. I can use relative path concept to change directory to kernel.
 
-```
+```shell
 $pwd
 /home/dinosaur
 $cd ./Downloads/songs/rock/
@@ -54,7 +54,7 @@ Comes in handy with cd and cp commands.(No quotation marks)
 
 For example:  
 
-```
+```shell
 $pwd 
 /home/dinosaur/Downloads/songs/rock
 $cd ../../../
@@ -76,13 +76,13 @@ List is a datatype available in Python which can be written as a list of comma-s
 
 A list is declared as follows:
 
-```
+```python
 list =[]
 ```
 
 Here is an example of list:
 
-```
+```python
 list = ["Biology", "Physics", "Chemistry", 4, 5, 6]
 print list
 "Biology", "Physics", "Chemistry", 4, 5, 6
@@ -90,7 +90,7 @@ print list
 
 Last week we used a function called input() using which user enters a particular information.
 
-```
+```python
 name = input("What's your name?\n")
 Dinosaur
 print(name)
@@ -99,7 +99,7 @@ Dinosaur
 
 Now, remember, all the strings and lists are indexed in python and the indexing starts from 0. It means
 
-```
+```python
 name[0]
 "D"
 name[1]
@@ -116,13 +116,13 @@ Dictionary is a useful datatype where the values are stored as key:value pairs. 
 
 A dictionary is declared as follows:
 
-```
+```python
 dictionary = {}
 ```
 
 Example:
 
-```
+```python
 GC_content = {45:"ATGATGCTAGCTAGCTAGCATGCAT", 0 :"ATATATATATTATTTTATATATATATATA", 49 : "CTAGTGCATGCTAGCTAGCTAGCTAGCTAGTCGTAGCTAGTCGATCGTACT", 64 : "GCAGCAGCAGCGCGTGCTAGCAGCAGCGCAGCTGCTAGTCGATCGTA", 50:"GCAGCAGCAGCGCGTGCTAGCAGCAGCGCAGCTGCTAGTCGATCGTA", 100: "GCGCGCGCGCGCGCGCCCCGGGGCGCGCGCGCGCGGGG"}
 print(GC_content[45])
 "ATGATGCTAGCTAGCTAGCATGCAT"
@@ -136,7 +136,7 @@ A list is an ordered sequence of objects, whereas dictionaries are unordered set
 
 For the given a nucleotide sequence and four integers a, b, c and d. Extract regions from a through b and c through d.
 
-```
+```python
 nucleotide = "ATGCTATATCGGCTACTACGTAGCTAGTCGATGCTAGTCGA"
 a = 3
 b = 9
@@ -147,7 +147,7 @@ d = 15
 **Optional:** Make it better by obtaining the sequence and numbers from the user.
 
 #### Expected Result
-```
+```python
 Desired Sequence from 3 to 9 is GCTATAT
 Desired Sequence from 6 to 15 is ATATCGGCTA
 ```
