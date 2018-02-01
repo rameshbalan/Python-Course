@@ -82,9 +82,9 @@ Condition statements are if and else statements. To test multiple conditions, if
 a = 5
 b = 7
 if a < b:
-  print(a,"is greater than",b)
-else:
   print(a,"is smaller than",b)
+else:
+  print(a,"is greater than",b)
 ```
 
 **For if, elif and else**
@@ -93,11 +93,11 @@ else:
 a = 5
 b = 7
 if a < b:
-  print(a,"is greater than",b)
+  print(a,"is smaller than",b)
 elif a == b:
   print(a,"is equal to", b)
 else:
-  print (a,"is smaller than",b)
+  print (a,"is greater than",b)
 ```
 
 ## Comparision operators
