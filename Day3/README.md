@@ -6,15 +6,15 @@
 
 | S.No. | Command | Function  
 |:------|:--------|:---------  
-|1.     |  mkdir  |  
-|2.     |  rmdir  |  
-|3.     |  touch  |  
-|4.     |  rm     |  
-|5.     |  cp     |  
-|6.     |  mv     |  
-|7.     |  ls     |  
-|8.     |  pwd    |  
-|9.     |  cd     |  
+|1.     |  mkdir  |  make a new directory
+|2.     |  rmdir  |  remove an empty directory
+|3.     |  touch  |  create a new file
+|4.     |  rm     |  remove a file
+|5.     |  cp     |  copy a file
+|6.     |  mv     |  move/rename a file
+|7.     |  ls     |  list the contents of a directory
+|8.     |  pwd    |  present working directory
+|9.     |  cd     |  change directory
 
 ### Shortcuts with cd
 
