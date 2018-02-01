@@ -3,6 +3,7 @@
 ## List of linux commands and its function
 
 ### So far...
+
 | S.No. | Command | Function  
 |:------|:--------|:---------  
 |1.     |  mkdir  |  
