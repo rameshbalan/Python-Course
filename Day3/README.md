@@ -118,8 +118,8 @@ For example:
 
 ```python
 dna=input('Enter DNA sequence:')
-if 'n' in dna :
-   nbases=dna.count('n')
+if "n" in dna :
+   nbases=dna.count("n")
    print("dna sequence has %d undefined bases " % nbases)
 else:
    print("dna sequence has no undefined bases")
@@ -135,9 +135,9 @@ else:
 
 ```python
 dna=input('Enter DNA sequence:')
-if 'n' in dna :
+if "n" in dna :
    print("dna sequence has undefined bases ")
-elif ‘N’ in dna :
+elif "N" in dna :
    print("dna sequence has undefined bases ")
 else:
    print("dna sequence has no undefined bases")
@@ -147,8 +147,8 @@ Now using logical operator
 
 ```python
 dna=input('Enter DNA sequence:')
-if 'n' in dna or ‘N’ in dna:
-   nbases=dna.count('n')+dna.count(‘N’)
+if "n" in dna or "N" in dna:
+   nbases=dna.count("n")+dna.count("N")
    print("dna sequence has %d undefined bases " % nbases)
 else:
    print("dna sequence has no undefined bases")
