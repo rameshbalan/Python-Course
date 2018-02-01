@@ -35,13 +35,17 @@
 |13.    |tail     |  
 |14.    |cat      |  
 |15.    |scp      |  
+|16.    |>        |
+
+Here is a sample [file] (https://rameshbalan.github.io/Python-Course/Day3/dna.example.fasta) for your challenge.
 
 ### Linux Challenge
 
 1. Rename a file without affecting the contents of the file using the command(s) learnt so far.
 2. Copy the renamed file from your system to the server using *scp* command.
-3. Print the first 10 lines of the renamed file opening it from the server.
-4. Rename this file as *results.txt* and copy it from server to your local system.
+3. Print the first 16 lines of the renamed file opening it from the server.
+4. Write these 16 lines to *results.txt*. 
+5. Copy it from server to your local system.
 
 # Python
 
