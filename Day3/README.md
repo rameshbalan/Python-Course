@@ -37,7 +37,7 @@
 |15.    |scp      |  
 |16.    |>        |
 
-Here is a sample [file] (https://rameshbalan.github.io/Python-Course/Day3/dna.example.fasta) for your challenge.
+Here is a sample [file](https://rameshbalan.github.io/Python-Course/Day3/dna.example.fasta "Sample File") for your challenge.
 
 ### Linux Challenge
 
