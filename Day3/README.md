@@ -5,15 +5,15 @@
 ### So far...
 | S.No. | Command | Function  
 |:------|:--------|:---------  
-|1.     |mkdir    |  
-|2.     |rmdir    |  
-|3.     |touch    |  
-|4.     |rm       |  
-|5.     |cp       |  
-|6.     |mv       |  
-|7.     |ls       |  
-|8.     |pwd      |  
-|9.     |cd       |  
+|1.     |  mkdir  |  
+|2.     |  rmdir  |  
+|3.     |  touch  |  
+|4.     |  rm     |  
+|5.     |  cp     |  
+|6.     |  mv     |  
+|7.     |  ls     |  
+|8.     |  pwd    |  
+|9.     |  cd     |  
 
 ### Shortcuts with cd
 
