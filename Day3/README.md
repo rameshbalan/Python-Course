@@ -34,7 +34,7 @@
 |12.    |head     | Displays the first 10 lines of a file 
 |13.    |tail     | Displays the last 10 lines of a file 
 |14.    |cat      | Displays the entire contents of a file 
-|15.    |scp      | Secure Copy - help to copy/transfer files between host and server
+|15.    |scp      | Secure Copy - helps to copy/transfer files between host and server
 |16.    |>        | Redirection Operator
 |17.    |chmod    | Change Mode - used to change file permissions 
 
