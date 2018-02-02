@@ -46,14 +46,20 @@ scp *name_of_the_file* *username@servername:path/to/the/file*
 
 **Example:**    
 The following command copies dna.fasta file from present working directory to DNA directory under Documents in the server.    
-```scp dna.fasta manager@pine64.uta.edu:~/Documents/DNA/```
+
+```
+scp dna.fasta manager@pine64.uta.edu:~/Documents/DNA/
+```
 
 General format for scp: from remote server to the host.    
 scp *username@servername:path/to/the/file* *path/to/where/you/want/to/copy/*  
 
 **Example:**   
 The following command copies dna.fasta from server to present working directory.    
-```scp manager@pine64.uta.edu:~/Documents/DNA/dna.fasta ./```
+
+```
+scp manager@pine64.uta.edu:~/Documents/DNA/dna.fasta ./
+```
 
 
 Here is a sample [file](https://rameshbalan.github.io/Python-Course/Day3/dna.example.fasta "Sample File") for your challenge.
