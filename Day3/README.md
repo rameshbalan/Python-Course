@@ -29,13 +29,32 @@
 
 | S.No. | Command | Function  
 |:------|:--------|:--------- 
-|10.    |ssh      |  
-|11.    |echo     |  
-|12.    |head     |  
-|13.    |tail     |  
-|14.    |cat      |  
-|15.    |scp      |  
-|16.    |>        |
+|10.    |ssh      | Secure Shell - helps gain access to a remote server via secure channel
+|11.    |echo     | Equivalent of print() function in python
+|12.    |head     | Displays the first 10 lines of a file 
+|13.    |tail     | Displays the last 10 lines of a file 
+|14.    |cat      | Displays the entire contents of a file 
+|15.    |scp      | Secure Copy - help to copy/transfer files between host and server
+|16.    |>        | Redirection Operator
+|17.    |chmod    | Change Mode - used to change file permissions 
+
+General format for chmod:  
+chmod u+x *name_of_the_python_file*
+
+General format for scp: from host to remote server
+scp *name_of_the_file* *username@servername:path/to/the/file*
+
+**Example:**
+The following command copies dna.fasta file from present working directory to DNA directory under Documents in the server. 
+scp dna.fasta manager@pine64.uta.edu:~/Documents/DNA/
+
+General format for scp: from remote server to the host
+scp *username@servername:path/to/the/file* *path/to/where/you/want/to/copy/*
+
+**Example:**
+The following command copies dna.fasta from server to your present working directory.
+scp manager@pine64.uta.edu:~/Documents/DNA/dna.fasta ./
+
 
 Here is a sample [file](https://rameshbalan.github.io/Python-Course/Day3/dna.example.fasta "Sample File") for your challenge.
 
@@ -129,7 +148,7 @@ else:
    print("dna sequence has no undefined bases")
 ```
 
-##Logical Operators
+## Logical Operators
 
 | S.No. | Operator | Function  
 |:------|:---------|:--------- 
