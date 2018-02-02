@@ -142,8 +142,8 @@ else:
 
 | S.No. | Operator | Function  
 |:------|:---------|:--------- 
-|1.     |   in     | True if it Hinds a variable in the speciHied sequence and false otherwise.
-|2.     |   not in | True if it does not Hinds a variable in the speciHied sequence and false otherwise.
+|1.     |   in     | True if it finds a variable in the specified sequence and false otherwise.
+|2.     |   not in | True if it does not finds a variable in the specified sequence and false otherwise.
 
 For example:
 
