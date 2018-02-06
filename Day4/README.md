@@ -41,7 +41,7 @@
 
 General usage of *grep, awk* and *sed*:
 
-```
+```shell
 grep "pattern" filename
 awk '{function}' filename
 sed 's/word.to.replace/replacing.word/' filename
@@ -67,7 +67,7 @@ sed 's/word.to.replace/replacing.word/' filename
 |2.   |OFS     | Output Field Separator
 |3.   |$0      | All columns
 
-```
+```shell
 awk '{print $1,$2,$3}' file.txt
 ls -l| awk 'BEGIN {sum=0} {sum=sum+$5} END {print sum}'
 ```
@@ -82,7 +82,7 @@ ls -l| awk 'BEGIN {sum=0} {sum=sum+$5} END {print sum}'
 
 Frequently Used flag in sed is **g** in the expression
 
-```
+```shell
 sed -ei 's/U/X/g' protein-sequence.txt
 ```
 
@@ -157,8 +157,7 @@ In the code above, the variable **i** is a placeholder for the element currently
 
 ## with open as 
 
-open() - Opens the file
-The function open takes two argument. One is the name or the path to the file. The second argument is the mode in which the file should be opened.
+To open a file, the function open() is used. This function takes two arguments. The first argument is the name or the path to the file. The second argument specifies a mode in which the file should be opened.
 
 There are three modes.
 
