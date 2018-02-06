@@ -86,3 +86,90 @@ Frequently Used flag in sed is **g** in the expression
 sed -ei 's/U/X/g' protein-sequence.txt
 ```
 
+# Python
+
+So far we have seen Data types (int, str, float), Data Structures (list and dictionary) and Condition statements (if, elif and else). Today we will see tuples which is another data structure and looping (for and while loops) in python.
+
+## Tuples
+
+Tuples are similar to lists. They can hold different data types and structures. All the elements in the tuples are indexed like list. But a crucial difference between a tuple and a list is that the tuples are **immutable**. This feature makes tuple an asset when dealing with nucleotide and protein sequences.  
+
+General Usage:
+
+Assigning a tuple to a variable  
+```python
+tuple = ()
+```
+
+Example of a tuple  
+
+```python
+tuple = ("ATGCATGCAGCATC", "RHGLYHGRYLYCHRGL", ["DNA","RNA",4], 576)
+```
+
+### Challenge:
+
+Extract "RNA" from the tuple.
+
+## Loops
+Loops are of immense help when it comes to doing a repetitive work for an entire file/ sometimes directory. We can iterate using two loops. They are *for* loop and *while* loop.
+
+## while loop
+
+The while loop repeats a block of commands/instructions as long as a given condition is True. Each repetition is called an iteration of the loop.
+
+```python
+n = 1
+
+while n < 4:
+	print(n)
+	n = n + 1
+```
+```python
+num = 1
+
+while num <= 10:
+    print(num)
+    num += 1
+```
+
+General Syntax:
+
+```python
+loop_condition = True
+
+while loop_condition:
+    print("Loop Condition keeps: %s" %(loop_condition))
+    loop_condition = False
+```
+
+
+## for loop
+
+The for loop is another way to iterate over a list or a file or over a range of values. A for loop automatically assigns a variable to the current element being iterated on.
+
+```python
+for i in range(1, 11):
+  print(i)
+```
+
+In the code above, the variable **i** is a placeholder for the element currently being iterated on.
+
+## with open as 
+
+open() - Opens the file
+The function open takes two argument. One is the name or the path to the file. The second argument is the mode in which the file should be opened.
+
+There are three modes.
+
+r - read
+w - write
+a - append
+
+So the general syntax is 
+
+```python
+with open ("DNA.sequence.file.fasta", 'r') as infile:
+  for line in infile:
+    print line
+```
