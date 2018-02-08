@@ -87,7 +87,7 @@ sed -ei 's/U/X/g' protein-sequence.txt
 ```
 ### Challenge
 
-1. Convert the following tab-separated(tab) [file](./Thamnophis_Protein_table.txt) into a comma-separated (csv) file.
+1. Extract *protein product* and *description* in the following tab-separated(tab) [file](./Thamnophis_Protein_table.txt) into a comma-separated (csv) file.
 2. A software that calls for bases while sequencing had a bug which made all the Adenine in the sequence marked as "X" instead of "A". You called the customer support and they fixed the bug by releasing a new update to the software. But your lab had insufficient fund to update to the newer version. You inform your PI and he tells you to write a script to fix this issue in your sequence. How will you fix this? (You can not update the software using personal funds)
 3. Search the following 8 nucleotide sequence in this [file](../Day3/dna.example.fasta): "tagctgatc". Report the lines in which they occur.
 
@@ -177,3 +177,9 @@ with open ("DNA.sequence.file.fasta", 'r') as infile:
   for line in infile:
     print line
 ```
+
+## Challenge
+
+1. Given two numbers a and b. Find the sum of all odd numbers between the two.
+2. Given a file, print only the even numbered lines from the file.  Assume 1-based numbering of lines.
+3. Given a string, count the number of times each word appears.
