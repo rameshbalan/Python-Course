@@ -85,6 +85,11 @@ Frequently Used flag in sed is **g** in the expression
 ```shell
 sed -ei 's/U/X/g' protein-sequence.txt
 ```
+### Challenge
+
+1. Convert the following tab-separated(tab) file into a comma-separated (csv) file.
+2. A software that calls for bases while sequencing had a bug which made all the Adenine in the sequence marked as "X" instead of "A". You called the customer support and they fixed the bug by releasing a new update to the software. But your lab had insufficient fund to update to the newer version. You inform your PI and he tells you to write a script to fix this issue in your sequence. How will you fix this? (You can not update the software using personal funds)
+3. Search the following 8 nucleotide sequence in this file: "tagctgatc". Report the lines in which they occur.
 
 # Python
 
@@ -109,7 +114,7 @@ tuple = ("ATGCATGCAGCATC", "RHGLYHGRYLYCHRGL", ["DNA","RNA",4], 576)
 
 ### Challenge:
 
-Extract "RNA" from the tuple.
+Extract "RNA" from the tuple above.
 
 ## Loops
 Loops are of immense help when it comes to doing a repetitive work for an entire file/ sometimes directory. We can iterate using two loops. They are *for* loop and *while* loop.
