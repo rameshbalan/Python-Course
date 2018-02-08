@@ -181,5 +181,5 @@ with open ("DNA.sequence.file.fasta", 'r') as infile:
 ## Challenge
 
 1. Given two numbers a and b. Find the sum of all odd numbers between the two.
-2. Given a file, print only the even numbered lines from the file.  Assume 1-based numbering of lines.
-3. Given a string, count the number of times each word appears.
+2. Given a file, print only the even numbered lines from the [file](./Even-lines-file.txt).  Assume 1-based numbering of lines.
+3. Given a [string](./word-count-using-dict.txt), count the number of times each word appears.
