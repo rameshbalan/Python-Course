@@ -2,7 +2,7 @@
 
 ## Python
 
-:+1: Given two numbers a and b. Find the sum of all odd numbers between the two.
+[x] Given two numbers a and b. Find the sum of all odd numbers between the two.
 
 ```python
 a = input("Starting number: \n")
@@ -18,7 +18,7 @@ while a <= b:
 print "The sum of all odd numbers between the given range is %d" % (i)
 ```
 
-:+1: Given a file, print only the even numbered lines from the file. Assume 1-based numbering of lines.
+[x] Given a file, print only the even numbered lines from the file. Assume 1-based numbering of lines.
 
 ```python
 a=input("Drag and Drop the file and Press enter\n")
@@ -32,7 +32,7 @@ while i<=e:
 my_file.close()
 ```
 
-:+1: Given a string, count the number of times each word appears.
+[x] Given a string, count the number of times each word appears.
 
 
 ```python
