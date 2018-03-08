@@ -1,3 +1,10 @@
+# Python Course
+
+Day 1 - [Here](https://rameshbalan.github.io/Python-Course/Day1) 
+Day 2 - [Here](https://rameshbalan.github.io/Python-Course/Day2) 
+Day 3 - [Here](https://rameshbalan.github.io/Python-Course/Day3)
+Day 4 - [Here](https://rameshbalan.github.io/Python-Course/Day4)
+
 # Getting Started with Linux
 
 Linux is an Open Source Operating System widely used for various purposes including scientific computing. To jump start the learning we will use the following commands and then understand its purpose.
