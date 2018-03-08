@@ -34,6 +34,7 @@ my_file.close()
 
 3. Given a string, count the number of times each word appears.
 
+
 ```python
 from collections import Counter
 
