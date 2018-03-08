@@ -62,5 +62,5 @@ print("GC content is " + str(get_gc_content("ATGACTGGACCA")))
 2. Write a function that takes two arguments – a protein sequence and an amino acid residue code – and returns the percentage of the protein that the amino acid makes up.  
 Protein Sequence - HLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAF
 SDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANAL
-AHKY
+AHKY  
 Amino Acid Residue - Pick Any Residue
