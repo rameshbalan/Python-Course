@@ -1,3 +1,10 @@
+# Python Course
+
+Day 1 - [Here](https://rameshbalan.github.io/Python-Course/Day1) 
+Day 2 - [Here](https://rameshbalan.github.io/Python-Course/Day2) 
+Day 3 - [Here](https://rameshbalan.github.io/Python-Course/Day3)
+Day 4 - [Here](https://rameshbalan.github.io/Python-Course/Day4)
+
 # Linux
 
 ## List of linux commands and its function
