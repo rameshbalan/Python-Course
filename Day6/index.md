@@ -30,3 +30,28 @@ Before you can use turtle, you have to import it.
 <iframe src="https://trinket.io/embed/python/68027d8ebb" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Play around and learn more :smile:.
+
+Copy paste the following code snippet to the trinklet window and see what happens.
+
+```python
+import turtle 
+
+pattern = turtle.Turtle()
+
+pattern.pencolor("blue")
+
+for i in range(50):
+    pattern.forward(50)
+    pattern.left(123) # Let's go counterclockwise this time 
+    
+pattern.pencolor("red")
+for i in range(50):
+    pattern.forward(100)
+    pattern.left(123)
+    
+turtle.done()
+```
+
+### Challenge:
+
+1. Create a nice and beautiful pattern. Use for loops and/or while loops as necessary.
