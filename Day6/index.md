@@ -54,4 +54,6 @@ turtle.done()
 
 ### Challenge:
 
-1. Create a nice and beautiful pattern. Use for loops and/or while loops as necessary.
+a. Create a beautiful abstract pattern. Use for loops and/or while loops as necessary.  
+(or)  
+b. Animate a biological concept of your choice.  
