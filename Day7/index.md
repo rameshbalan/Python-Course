@@ -28,7 +28,7 @@ Some of the patterns are listed below.
 There are other instances where looking for pattern becomes useful. When carrying out a project, most often there is a need to use different softwares and programs to aid our research goal. The output/result file from one program serves as an input to the second program. But every program may have specific format on the input file which may not match the output from the initial program.
 
 Consider the following scenario:  
-DNA and description file is avaiable [here](https://mavsuta-my.sharepoint.com/:u:/g/personal/balan_ramesh_mavs_uta_edu/EeBP56LW6GhHnm8Am5ER6lcBxfay7lHnPw-uBj-0WOMRgw?e=HqYfas).  
+DNA and description file is avaiable [here](https://www.ncbi.nlm.nih.gov/genome?term=tribolium%20castaneum).  
 You have sequenced a gene and following is the nucleotide sequence.  
 ```
 >XM_015980567.1
