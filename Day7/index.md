@@ -19,11 +19,11 @@ Thus, the pattern is this case study is "specific sites" and the string object i
 
 Some of the patterns are listed below.
 
-[x] Protein Binding Domain  
-[x] Restriction Enzyme cut site  
-[x] Repeat elements  
-[x] Run of Mononucleotides  
-[ ] ...
+:white_check_mark: Protein Binding Domain  
+:white_check_mark: Restriction Enzyme cut site  
+:white_check_mark: Repeat elements  
+:white_check_mark: Run of Mononucleotides  
+:white_medium_square: ...
 
 There are other instances where looking for pattern becomes useful. When carrying out a project, most often there is a need to use different softwares and programs to aid our research goal. The output/result file from one program serves as an input to the second program. But every program may have specific format on the input file which may not match the output from the initial program.
 
@@ -83,8 +83,8 @@ AAAACAGTA
 
 Now you have the following questions.  
 **1. What is the protein sequence?**  
-**2. What is the name of the protein? **  
-**3. Where is it located in the genome of the organism? **  
+**2. What is the name of the protein?**  
+**3. Where is it located in the genome of the organism?**  
 
 This is comparable to the following pipeline.
 
