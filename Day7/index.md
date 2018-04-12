@@ -19,11 +19,11 @@ Thus, the pattern is this case study is "specific sites" and the string object i
 
 Some of the patterns are listed below.
 
-- [x] Protein Binding Domain  
-- [x] Restriction Enzyme cut site  
-- [x] Repeat elements  
-- [x] Run of Mononucleotides  
-- [ ] ...
+[x] Protein Binding Domain  
+[x] Restriction Enzyme cut site  
+[x] Repeat elements  
+[x] Run of Mononucleotides  
+[ ] ...
 
 There are other instances where looking for pattern becomes useful. When carrying out a project, most often there is a need to use different softwares and programs to aid our research goal. The output/result file from one program serves as an input to the second program. But every program may have specific format on the input file which may not match the output from the initial program.
 
@@ -83,8 +83,8 @@ AAAACAGTA
 
 Now you have the following questions.  
 **1. What is the protein sequence?**  
-** 2. What is the name of the protein? **  
-** 3. Where is it located in the genome of the organism? **  
+**2. What is the name of the protein? **  
+**3. Where is it located in the genome of the organism? **  
 
 This is comparable to the following pipeline.
 
@@ -261,4 +261,4 @@ Here the regex matches, "GCCCCCGC" or "GCCCCCCGC" or "GCCCCCCCGC" or "GCCCCCCCCG
 
 
 #### Challenge:  
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTahrmEEg_poABwroQug3JEUf0mNmMUiQbxirvvhBUfLHsgZKdMEoIOtepaYEeGL6cp5xRmS2mwbv6X/pub?embedded=true"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTahrmEEg_poABwroQug3JEUf0mNmMUiQbxirvvhBUfLHsgZKdMEoIOtepaYEeGL6cp5xRmS2mwbv6X/pub?embedded=true" width="720" height="720"></iframe>
