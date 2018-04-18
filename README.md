@@ -8,5 +8,5 @@ Day 3 - [Here](https://rameshbalan.github.io/Python-Course/Day3)-Conditions and 
 Day 4 - [Here](https://rameshbalan.github.io/Python-Course/Day4)-Loops  
 Day 5 - [Here](https://rameshbalan.github.io/Python-Course/Day5)-User-Defined Functions  
 Day 6 - [Here](https://rameshbalan.github.io/Python-Course/Day6)-Short Quiz, Introduction to Turtle Graphics  
-Day 7 - [Here](https://rameshbalan.github.io/Python-Course/Day7)-Introduction to Regular Expression (Regex) - Part I 
+Day 7 - [Here](https://rameshbalan.github.io/Python-Course/Day7)-Introduction to Regular Expression (Regex) - Part I  
 Day 8 - [Here](https://rameshbalan.github.io/Python-Course/Day8)-Introduction to Regular Expression (Regex) - Part II 
