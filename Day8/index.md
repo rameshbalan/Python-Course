@@ -1,3 +1,14 @@
+# Python Course
+
+Day 1 - [Here](https://rameshbalan.github.io/Python-Course/Day1) 
+Day 2 - [Here](https://rameshbalan.github.io/Python-Course/Day2) 
+Day 3 - [Here](https://rameshbalan.github.io/Python-Course/Day3)
+Day 4 - [Here](https://rameshbalan.github.io/Python-Course/Day4)
+Day 5 - [Here](https://rameshbalan.github.io/Python-Course/Day5)
+Day 6 - [Here](https://rameshbalan.github.io/Python-Course/Day6)
+Day 7 - [Here](https://rameshbalan.github.io/Python-Course/Day7)
+Day 8 - [Here](https://rameshbalan.github.io/Python-Course/Day8)
+
 ## Regular Expression (Regex) - Part II
 
 Last week, we had an introduction to regular expression. We imported re module, we searched for patterns using `re.search()` function. We also understood about alternators, character grouping and quantifiers which are used for pattern searching. Here is a table summarizing all the concepts discussed so far.
