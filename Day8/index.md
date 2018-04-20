@@ -146,4 +146,4 @@ Write a program that will print only the accession names that satisfy the follow
 • end with d followed by either a, r or p  
 
 ### Double digest
-Use [dna.txt](dna_sequence.txt) which contains a made-up DNA sequence. Predict the fragment lengths that we will get if we digest the sequence with two made-up restriction enzymes – AbcI, whose recognition site is ANT*AAT, and AbcII, whose recognition site is GCRW*TG (asterisks indicate the position of the cut site).
+Use [dna.txt](dna_sequence.txt) which contains a made-up DNA sequence. Predict the fragment lengths that we will get if we digest the sequence with two made-up restriction enzymes – AbcI, whose recognition site is ANT&ast;AAT, and AbcII, whose recognition site is GCRW&ast;TG (asterisks indicate the position of the cut site).
