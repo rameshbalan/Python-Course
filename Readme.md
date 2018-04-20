@@ -1,5 +1,3 @@
-# Python Course
-
 ## This is a crash course in Python with Introduction to Linux.
 
 Day 1 - [Here](https://rameshbalan.github.io/Python-Course/Day1)-Introduction to variables and data types  
