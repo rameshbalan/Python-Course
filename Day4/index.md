@@ -1,11 +1,11 @@
-Day 1 - [Here](https://rameshbalan.github.io/Python-Course/Day1) 
-Day 2 - [Here](https://rameshbalan.github.io/Python-Course/Day2) 
-Day 3 - [Here](https://rameshbalan.github.io/Python-Course/Day3)
-Day 4 - [Here](https://rameshbalan.github.io/Python-Course/Day4)
-Day 5 - [Here](https://rameshbalan.github.io/Python-Course/Day5)
-Day 6 - [Here](https://rameshbalan.github.io/Python-Course/Day6)
-Day 7 - [Here](https://rameshbalan.github.io/Python-Course/Day7)
-Day 8 - [Here](https://rameshbalan.github.io/Python-Course/Day8)
+[Day-1](https://rameshbalan.github.io/Python-Course/Day1) 
+[Day-2](https://rameshbalan.github.io/Python-Course/Day2) 
+[Day-3](https://rameshbalan.github.io/Python-Course/Day3) 
+[Day-4](https://rameshbalan.github.io/Python-Course/Day4) 
+[Day-5](https://rameshbalan.github.io/Python-Course/Day5) 
+[Day-6](https://rameshbalan.github.io/Python-Course/Day6) 
+[Day-7](https://rameshbalan.github.io/Python-Course/Day7) 
+[Day-8](https://rameshbalan.github.io/Python-Course/Day8) 
 
 # Linux  
 ## List of linux commands  
